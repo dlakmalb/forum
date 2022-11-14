@@ -1,0 +1,10 @@
+{
+    "serverSideUrl": "http://localhost:8000",
+    "approvedPosts": "/approved-posts",
+    "pendingPosts": "/pending-posts",
+    "navItems":[
+        { "name": "Pending Posts", "link": "/pending-posts" },
+        { "name": "Add Post", "link": "/add-post" },
+        { "name": "Delete Posts", "link": "/delete-posts" }
+    ]
+}
