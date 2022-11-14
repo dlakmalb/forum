@@ -1,3 +1,33 @@
+# Forum App
+
+## Description
+Welcome to my Forum App. This is an online forum where users can ask questions and provide feedback to others’ questions as well. React library has been used for the client side development and PHP Symfony framework is used for the backend development.
+
+## Supported features
+* User - Login | Logout | Register
+* Posts - List | Search | Add | Approve | Reject | Delete
+* Comments - Add
+
+## Application stack
+The application is divided in two parts
+* Backend
+* Frontend
+
+## Frontend stack
+* ReactJS 18.2.0
+* Bootstrap 4.3.1
+* ES6
+* React router dom 4.3.1
+* Axios 1.1.3  (for http requests to the backend)
+
+## Install and Run the Project
+1. Install NodeJS
+2. Clone the repository - git clone https://github.com/dlakmalb/forum_client_side.git
+3. Go to project directory - cd forum_client_side
+4. Run npm install
+5. Run npm start
+6. Forum app will be available at localhost://3000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
